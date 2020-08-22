@@ -9,3 +9,8 @@ The chief main purpose of implementing this modules is to learn how to package a
 
 To learn Different steps involved in packaging a module, uploading the module to python package index so that people on internet can install the module using pip.
 
+# Install
+
+```sh
+$ pip install -i https://test.pypi.org/simple/ champakraja
+```
